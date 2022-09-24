@@ -31,20 +31,20 @@ global.APIKeys = {
 
 // Other
 
-global.alivemsg ="HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜️"
+global.alivemsg ="HI I'M  ⚜️ﾉｲﾒ_ﾉ乃尺ﾑんﾉﾶ_BOT⚜️"
                      
-global.alivepic = "https://i.ibb.co/8N6fR4X/Whats-App-Image-2022-09-17-at-21-22-46.jpg" //you logo key 
+global.alivepic = "https://i.ibb.co/WBR9Zr8/cheemspic.png" //you logo key 
 
 
-global.ownername = " KAVEESHA " //ur owner name
-global.owner = ['94774579505','']
-global.premium = ['94774579505','94774579505']
-global.botname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.ownername = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.group1 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
-global.group2 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
-global.packname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.ytchannel = 'https://youtu.be/B1ri-AFU5hU'
+global.ownername = " 𝕀𝕥𝕩_𝕚𝕓𝕣𝕒𝕙𝕚𝕞 " //ur owner name
+global.owner = ['923229931076','']
+global.premium = ['923219842745','923324807634']
+global.botname = 'ﾉｲﾒ_ﾉ乃尺ﾑんﾉﾶ_BOT'
+global.ownername = 'ﾉｲﾒ_ﾉ乃尺ﾑんﾉﾶ_BOT'
+global.group1 = 'https://wa.me/923229931076?text=_៚ʜᴇʟʟᴏ+𝕚𝕥𝕩_𝕚𝕓𝕣𝕒𝕙𝕚𝕞+ʙɪɢ+ғᴀɴ+ᴠʀᴏ+🪄_'
+global.group2 = 'https://wa.me/923229931076?text=_៚ʜᴇʟʟᴏ+𝕚𝕥𝕩_𝕚𝕓𝕣𝕒𝕙𝕚𝕞+ʙɪɢ+ғᴀɴ+ᴠʀᴏ+🪄_'
+global.packname = 'ﾉｲﾒ_ﾉ乃尺ﾑんﾉﾶ_BOT'
+global.ytchannel = 'https://www.instagram.com/its_ibrahim_2004/'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -65,7 +65,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
+global.author = 'ﾉｲﾒ_ﾉ乃尺ﾑんﾉﾶ_BOT'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
